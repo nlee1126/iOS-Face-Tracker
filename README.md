@@ -20,6 +20,5 @@
 5. **Pair with ESP32 Bluetooth**  
    - Power on the ESP32.  
    - Look for the Bluetooth device name **`ESP32-FaceBot`** on your iPhone.  
-   - Connect when prompted—no password required.  
    - Once connected, the app will begin sending face coordinates automatically.
 <img width="674" alt="Screenshot 2025-04-22 at 2 02 40 PM" src="https://github.com/user-attachments/assets/88d32d3b-af5c-4282-bcf6-abda9beed137" />
